@@ -1,2 +1,2 @@
 # pinecone-bridged-mcp
-This is a docker image containig the pinecone mcp with mcp-bridge and a example with sse transport usage
+This repo contains a docker image with pinecone mcp and mcp-bridge. It also contains a example with sse transport usage. 
